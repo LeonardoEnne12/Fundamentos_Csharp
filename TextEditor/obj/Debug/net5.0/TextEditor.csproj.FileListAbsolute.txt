@@ -1,0 +1,16 @@
+/home/leoenne/Área de Trabalho/Curso_C#/TextEditor/bin/Debug/net5.0/TextEditor
+/home/leoenne/Área de Trabalho/Curso_C#/TextEditor/bin/Debug/net5.0/TextEditor.deps.json
+/home/leoenne/Área de Trabalho/Curso_C#/TextEditor/bin/Debug/net5.0/TextEditor.runtimeconfig.json
+/home/leoenne/Área de Trabalho/Curso_C#/TextEditor/bin/Debug/net5.0/TextEditor.runtimeconfig.dev.json
+/home/leoenne/Área de Trabalho/Curso_C#/TextEditor/bin/Debug/net5.0/TextEditor.dll
+/home/leoenne/Área de Trabalho/Curso_C#/TextEditor/bin/Debug/net5.0/ref/TextEditor.dll
+/home/leoenne/Área de Trabalho/Curso_C#/TextEditor/bin/Debug/net5.0/TextEditor.pdb
+/home/leoenne/Área de Trabalho/Curso_C#/TextEditor/obj/Debug/net5.0/TextEditor.csproj.AssemblyReference.cache
+/home/leoenne/Área de Trabalho/Curso_C#/TextEditor/obj/Debug/net5.0/TextEditor.GeneratedMSBuildEditorConfig.editorconfig
+/home/leoenne/Área de Trabalho/Curso_C#/TextEditor/obj/Debug/net5.0/TextEditor.AssemblyInfoInputs.cache
+/home/leoenne/Área de Trabalho/Curso_C#/TextEditor/obj/Debug/net5.0/TextEditor.AssemblyInfo.cs
+/home/leoenne/Área de Trabalho/Curso_C#/TextEditor/obj/Debug/net5.0/TextEditor.csproj.CoreCompileInputs.cache
+/home/leoenne/Área de Trabalho/Curso_C#/TextEditor/obj/Debug/net5.0/TextEditor.dll
+/home/leoenne/Área de Trabalho/Curso_C#/TextEditor/obj/Debug/net5.0/ref/TextEditor.dll
+/home/leoenne/Área de Trabalho/Curso_C#/TextEditor/obj/Debug/net5.0/TextEditor.pdb
+/home/leoenne/Área de Trabalho/Curso_C#/TextEditor/obj/Debug/net5.0/TextEditor.genruntimeconfig.cache

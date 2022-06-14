@@ -1,0 +1,16 @@
+/home/leoenne/Área de Trabalho/Curso_C#/Fundamentos_C#/Exceptions/obj/Debug/net5.0/Exceptions.csproj.AssemblyReference.cache
+/home/leoenne/Área de Trabalho/Curso_C#/Fundamentos_C#/Exceptions/obj/Debug/net5.0/Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+/home/leoenne/Área de Trabalho/Curso_C#/Fundamentos_C#/Exceptions/obj/Debug/net5.0/Exceptions.AssemblyInfoInputs.cache
+/home/leoenne/Área de Trabalho/Curso_C#/Fundamentos_C#/Exceptions/obj/Debug/net5.0/Exceptions.AssemblyInfo.cs
+/home/leoenne/Área de Trabalho/Curso_C#/Fundamentos_C#/Exceptions/obj/Debug/net5.0/Exceptions.csproj.CoreCompileInputs.cache
+/home/leoenne/Área de Trabalho/Curso_C#/Fundamentos_C#/Exceptions/bin/Debug/net5.0/Exceptions
+/home/leoenne/Área de Trabalho/Curso_C#/Fundamentos_C#/Exceptions/bin/Debug/net5.0/Exceptions.deps.json
+/home/leoenne/Área de Trabalho/Curso_C#/Fundamentos_C#/Exceptions/bin/Debug/net5.0/Exceptions.runtimeconfig.json
+/home/leoenne/Área de Trabalho/Curso_C#/Fundamentos_C#/Exceptions/bin/Debug/net5.0/Exceptions.runtimeconfig.dev.json
+/home/leoenne/Área de Trabalho/Curso_C#/Fundamentos_C#/Exceptions/bin/Debug/net5.0/Exceptions.dll
+/home/leoenne/Área de Trabalho/Curso_C#/Fundamentos_C#/Exceptions/bin/Debug/net5.0/ref/Exceptions.dll
+/home/leoenne/Área de Trabalho/Curso_C#/Fundamentos_C#/Exceptions/bin/Debug/net5.0/Exceptions.pdb
+/home/leoenne/Área de Trabalho/Curso_C#/Fundamentos_C#/Exceptions/obj/Debug/net5.0/Exceptions.dll
+/home/leoenne/Área de Trabalho/Curso_C#/Fundamentos_C#/Exceptions/obj/Debug/net5.0/ref/Exceptions.dll
+/home/leoenne/Área de Trabalho/Curso_C#/Fundamentos_C#/Exceptions/obj/Debug/net5.0/Exceptions.pdb
+/home/leoenne/Área de Trabalho/Curso_C#/Fundamentos_C#/Exceptions/obj/Debug/net5.0/Exceptions.genruntimeconfig.cache

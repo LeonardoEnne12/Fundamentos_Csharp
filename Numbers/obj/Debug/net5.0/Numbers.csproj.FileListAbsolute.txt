@@ -1,0 +1,16 @@
+/home/leoenne/Área de Trabalho/Curso_C#/Fundamentos_C#/Numbers/obj/Debug/net5.0/Numbers.csproj.AssemblyReference.cache
+/home/leoenne/Área de Trabalho/Curso_C#/Fundamentos_C#/Numbers/obj/Debug/net5.0/Numbers.GeneratedMSBuildEditorConfig.editorconfig
+/home/leoenne/Área de Trabalho/Curso_C#/Fundamentos_C#/Numbers/obj/Debug/net5.0/Numbers.AssemblyInfoInputs.cache
+/home/leoenne/Área de Trabalho/Curso_C#/Fundamentos_C#/Numbers/obj/Debug/net5.0/Numbers.AssemblyInfo.cs
+/home/leoenne/Área de Trabalho/Curso_C#/Fundamentos_C#/Numbers/obj/Debug/net5.0/Numbers.csproj.CoreCompileInputs.cache
+/home/leoenne/Área de Trabalho/Curso_C#/Fundamentos_C#/Numbers/bin/Debug/net5.0/Numbers
+/home/leoenne/Área de Trabalho/Curso_C#/Fundamentos_C#/Numbers/bin/Debug/net5.0/Numbers.deps.json
+/home/leoenne/Área de Trabalho/Curso_C#/Fundamentos_C#/Numbers/bin/Debug/net5.0/Numbers.runtimeconfig.json
+/home/leoenne/Área de Trabalho/Curso_C#/Fundamentos_C#/Numbers/bin/Debug/net5.0/Numbers.runtimeconfig.dev.json
+/home/leoenne/Área de Trabalho/Curso_C#/Fundamentos_C#/Numbers/bin/Debug/net5.0/Numbers.dll
+/home/leoenne/Área de Trabalho/Curso_C#/Fundamentos_C#/Numbers/bin/Debug/net5.0/ref/Numbers.dll
+/home/leoenne/Área de Trabalho/Curso_C#/Fundamentos_C#/Numbers/bin/Debug/net5.0/Numbers.pdb
+/home/leoenne/Área de Trabalho/Curso_C#/Fundamentos_C#/Numbers/obj/Debug/net5.0/Numbers.dll
+/home/leoenne/Área de Trabalho/Curso_C#/Fundamentos_C#/Numbers/obj/Debug/net5.0/ref/Numbers.dll
+/home/leoenne/Área de Trabalho/Curso_C#/Fundamentos_C#/Numbers/obj/Debug/net5.0/Numbers.pdb
+/home/leoenne/Área de Trabalho/Curso_C#/Fundamentos_C#/Numbers/obj/Debug/net5.0/Numbers.genruntimeconfig.cache

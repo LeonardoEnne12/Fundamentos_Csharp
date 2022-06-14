@@ -1,0 +1,16 @@
+/home/leoenne/Área de Trabalho/Curso_C#/Fundamentos_C#/DotnetLists/bin/Debug/net5.0/DotnetLists
+/home/leoenne/Área de Trabalho/Curso_C#/Fundamentos_C#/DotnetLists/bin/Debug/net5.0/DotnetLists.deps.json
+/home/leoenne/Área de Trabalho/Curso_C#/Fundamentos_C#/DotnetLists/bin/Debug/net5.0/DotnetLists.runtimeconfig.json
+/home/leoenne/Área de Trabalho/Curso_C#/Fundamentos_C#/DotnetLists/bin/Debug/net5.0/DotnetLists.runtimeconfig.dev.json
+/home/leoenne/Área de Trabalho/Curso_C#/Fundamentos_C#/DotnetLists/bin/Debug/net5.0/DotnetLists.dll
+/home/leoenne/Área de Trabalho/Curso_C#/Fundamentos_C#/DotnetLists/bin/Debug/net5.0/ref/DotnetLists.dll
+/home/leoenne/Área de Trabalho/Curso_C#/Fundamentos_C#/DotnetLists/bin/Debug/net5.0/DotnetLists.pdb
+/home/leoenne/Área de Trabalho/Curso_C#/Fundamentos_C#/DotnetLists/obj/Debug/net5.0/DotnetLists.csproj.AssemblyReference.cache
+/home/leoenne/Área de Trabalho/Curso_C#/Fundamentos_C#/DotnetLists/obj/Debug/net5.0/DotnetLists.GeneratedMSBuildEditorConfig.editorconfig
+/home/leoenne/Área de Trabalho/Curso_C#/Fundamentos_C#/DotnetLists/obj/Debug/net5.0/DotnetLists.AssemblyInfoInputs.cache
+/home/leoenne/Área de Trabalho/Curso_C#/Fundamentos_C#/DotnetLists/obj/Debug/net5.0/DotnetLists.AssemblyInfo.cs
+/home/leoenne/Área de Trabalho/Curso_C#/Fundamentos_C#/DotnetLists/obj/Debug/net5.0/DotnetLists.csproj.CoreCompileInputs.cache
+/home/leoenne/Área de Trabalho/Curso_C#/Fundamentos_C#/DotnetLists/obj/Debug/net5.0/DotnetLists.dll
+/home/leoenne/Área de Trabalho/Curso_C#/Fundamentos_C#/DotnetLists/obj/Debug/net5.0/ref/DotnetLists.dll
+/home/leoenne/Área de Trabalho/Curso_C#/Fundamentos_C#/DotnetLists/obj/Debug/net5.0/DotnetLists.pdb
+/home/leoenne/Área de Trabalho/Curso_C#/Fundamentos_C#/DotnetLists/obj/Debug/net5.0/DotnetLists.genruntimeconfig.cache
