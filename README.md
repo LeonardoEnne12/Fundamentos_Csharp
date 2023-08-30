@@ -26,14 +26,14 @@ Focuses on how lists are used and manipulated in C#.
 * `DotnetLists.csproj`: C# project file.
 
 ### 4. EditorHtml <h3>
-A project that appears to be related to editing or viewing HTML.
+A project to editing or viewing HTML.
 
 **Main Files:**
 * `Program.cs`: Application entry point.
 * `EditorHtml.csproj`: C# project file.
-* `Editor.cs`: Possibly contains logic related to editing.
-* `Menu.cs`: Might contain functionalities related to the editor's menu.
-* `Viewer.cs`: Might be responsible for viewing the HTML content.
+* `Editor.cs`: Contains logic related to editing.
+* `Menu.cs`: Contain functionalities related to the editor's menu.
+* `Viewer.cs`: Responsible for viewing the HTML content.
 
 ### 5. Exceptions <h3>
 This directory covers exception handling in C#.
@@ -50,7 +50,7 @@ Focuses on operations or functionalities related to numbers in C#.
 * `Numbers.csproj`: C# project file.
 
 ### 7. Stopwatch <h3>
-A project that appears to be related to stopwatch functionality.
+A project related to stopwatch functionality.
 
 **Main Files:**
 * `Program.cs`: Application entry point.
